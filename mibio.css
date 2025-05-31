@@ -86,7 +86,10 @@ ul {
     list-style-type: disc;
     padding-left: 20px;
 }
-
+li a{
+    color: #555;
+    text-decoration: none;
+}
 .footer {
     text-align: center;
     margin-top: 40px;
