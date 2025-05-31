@@ -86,7 +86,7 @@ ul {
     list-style-type: disc;
     padding-left: 20px;
 }
-li a{
+ul a{
     color: #555;
     text-decoration: none;
 }
